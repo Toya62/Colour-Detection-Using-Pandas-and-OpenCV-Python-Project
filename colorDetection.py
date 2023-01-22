@@ -1,7 +1,7 @@
 #Import necessary libraries
 import numpy as np
 import pandas as pd
-import cv2
+import cv3
 import argparse
 
 #Get Input image from the user using CommandPrompt/Terminal
